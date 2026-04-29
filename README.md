@@ -2,7 +2,7 @@
 
 :star: Awarded Most Wanted (First Place) at CatHacks XII, the University of Kentucky's annual hackathon. :star:
 
-[Devpost Link](https://cathacks-xii.devpost.com/)
+[Devpost Link](https://devpost.com/software/nora-3gdjy6?ref_content=my-projects-tab&ref_feature=my_projects)
 
 # Inspiration
 
